@@ -25,7 +25,8 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 - Created bar charts using Matplotlib for better insights
 
 ## 📷 Sample Visualizations
-*(.\Screenshot 2025-06-20 153643.png)*
+
+![Population Bar Chart](Screenshot%202025-06-20%20153643.png)
 
 - Sentiment Distribution  
 - Top 10 Most Mentioned Entities  
